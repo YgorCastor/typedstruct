@@ -29,7 +29,7 @@ defmodule TypedStruct.MixProject do
         ],
         main: "readme",
         source_url: @repo_url,
-        source_ref: "v#{version}",
+        source_ref: "v#{@version}",
         formatters: ["html"]
       ],
 
